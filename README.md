@@ -146,27 +146,11 @@ The system also provides **air quality levels and health impact interpretation**
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Install Dependencies
+###  Install Dependencies
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
 
-🎓 Academic Relevance
 
-Designed and implemented as a Major Project in accordance with undergraduate engineering curriculum standards.
-
-Demonstrates the complete supervised machine learning workflow, including data preprocessing, model training, evaluation, and deployment.
-
-Aligned with the academic requirements of the B.E. (Artificial Intelligence) program.
-
-Suitable for project review, viva voce examinations, and campus placement evaluations.
-
-👩‍💻 Author
-
-Geethanjali M
-Bachelor of Engineering — Artificial Intelligence
-
-🌱 Conclusion
-
-This project effectively illustrates the application of supervised machine learning techniques to a real-world environmental problem. By integrating data preprocessing, predictive modeling, and web-based deployment, the system delivers accurate Air Quality Index (AQI) predictions along with meaningful health impact interpretations. The project highlights both technical competence and practical problem-solving skills, making it a valuable academic and professional contribution.
-
+AUTHOR👩‍💻
+Geethanjali M | B.E | Artificial Intelligence
