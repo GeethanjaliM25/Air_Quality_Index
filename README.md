@@ -19,7 +19,7 @@ This project covers the **complete ML lifecycle**:
 - Data cleaning & preprocessing
 - Outlier detection
 - Model training & evaluation
-- Real-time prediction using a web interface
+- Real-time prediction using a web interface.
 
 The system also provides **air quality levels and health impact interpretation**, making it suitable for real-world environmental monitoring applications.
 
