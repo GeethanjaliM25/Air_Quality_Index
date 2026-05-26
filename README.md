@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-The **Air Quality Index (AQI) Prediction System** is an end-to-end **supervised machine learning project** designed to predict air pollution levels based on environmental and pollutant parameters..   
+The **Air Quality Index (AQI) Prediction System** is an end-to-end **supervised machine learning project** designed to predict air pollution levels based on environmental and pollutant parameters.   
 
 This project covers the **complete ML lifecycle**:
 - Data understanding
