@@ -1,5 +1,5 @@
 # 🌍 Air Quality Index (AQI) Prediction System  
-### Supervised Machine Learning Major Project
+### Supervised Machine Learning Major Project 
  
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Supervised-blueviolet?style=for-the-badge"/>
