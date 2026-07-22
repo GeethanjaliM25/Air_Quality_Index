@@ -1,4 +1,4 @@
-# 🌍 Air Quality Index (AQI) Prediction System.  
+# 🌍 Air Quality Index (AQI) Prediction System. 
 ### Supervised Machine Learning Major Project.    
   
 <p align="center">
